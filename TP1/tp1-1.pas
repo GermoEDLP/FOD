@@ -10,8 +10,6 @@
     begin
             writeln('Por favor ingrese el nombre del archivo a crear: ');
             readln(nombre);
-            GetDir(0, s);
-            // writeln(s+ '/data/' + nombre+'.txt');
             assign(enteros, 'data/'+ nombre+'.txt');
             rewrite(enteros);
             writeln('Ingrese un numero para almacenar: ');
