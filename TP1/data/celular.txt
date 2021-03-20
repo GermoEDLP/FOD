@@ -1,9 +1,12 @@
-1042 15000.00 lg 
-50 120 sin/desc
+1042 15000.00  lg 
+50 120  sin camara
 k4
-4096 24000.00 moto 
-50 45 sin/desc
+4096 24000.00  moto 
+50 0  blanco
 G6
-2048 18000.00 moto 
-50 115 sin/desc
+2048 18000.00  moto 
+50 115  gris
 G3
+123 30000.00 Xiaomi
+5 8 Negro
+MiA1
