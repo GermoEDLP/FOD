@@ -1,0 +1,9 @@
+1042 15000 lg 
+50 120 sin camara
+k4
+4096 24000 moto 
+50 45 blanco
+G6
+2048 18000 moto 
+50 115 gris
+G3
