@@ -1,0 +1,11 @@
+1 Brassini
+5 3 German
+2 Perez
+3 1 Alberto
+3 Gimenez
+7 5 Pablo
+10 Ruiz
+8 5 Matias
+12 Cabrera
+4 0 Luis
+15 Otamendi
