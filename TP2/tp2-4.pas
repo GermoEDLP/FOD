@@ -161,8 +161,6 @@ begin
             read(mae, regm);
         regm.tiempo_total_de_sesiones_abiertas:=regm.tiempo_total_de_sesiones_abiertas+total_tiempo;
         regm.fecha:=regd.fecha;
-        writeln('Maestro a guardar: ', regm.cod, ' ', regm.tiempo_total_de_sesiones_abiertas, ' ', regm.fecha, ' - ', total_tiempo);
-        readln();
         seek(mae, filePos(mae)-1);
         write(mae, regm);
         if(not eof(mae)) then 
