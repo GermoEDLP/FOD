@@ -6,7 +6,6 @@
  const cant_tiendas = 3;
  type
     str20 = string[20];
-    str40 = string[40];
     producto = record
         cod: integer;
         nombre: str20;
