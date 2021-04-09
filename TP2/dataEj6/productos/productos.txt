@@ -1,0 +1,15 @@
+1 5 Remera
+15 10 Blanca
+250 Manga corta
+2 6 Camisa
+20 15 Roja
+320 Manga Larga
+3 48 Pantalon
+50 25 Denin
+1200 Jean
+4 6 Buzo
+10 3 Negro
+1000 Con capucha
+5 36 Medias
+60 30 Blancas
+300 Lisas 
