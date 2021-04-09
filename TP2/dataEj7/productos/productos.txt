@@ -1,0 +1,5 @@
+1 15 10 250 Remera
+2 20 15 320 Camisa
+3 50 25 1200 Pantalon
+4 10 3 1000 Buzo
+5 60 30 300 Medias
