@@ -1,6 +1,7 @@
  program tp2_4;
  uses Crt, sysutils;
  const v_a = 9999;
+ const cant_maquinas = 5;
  type
     str20 = string[20];
     conexiones = record
@@ -113,7 +114,7 @@ begin
     userMax:=0;
     assign(mae, 'dataEj4/dat/maestro.dat');
     rewrite(mae);
-    for cont:=1 to 5 do begin
+    for cont:=1 to cant_maquinas do begin
         assign(det, 'dataEj4/dat/maquina'+IntToStr(cont)+'.dat');
         reset(det);
         leer(det, regd);
@@ -183,12 +184,12 @@ begin
         opc:= menu();
         case opc of
             1: begin
-                for cont:=1 to 5 do
+                for cont:=1 to cant_maquinas do
                     importar('maquina'+IntToStr(cont));
             end;
             2: begin
                 crearMae();
-                for cont:=1 to 5 do
+                for cont:=1 to cant_maquinas do
                     cargarAlArchivoMaestro('maquina'+IntToStr(cont));
             end;
             3: begin
