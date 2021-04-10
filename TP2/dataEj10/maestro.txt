@@ -1,0 +1,26 @@
+1 1 Diseño
+15 Marketing
+2 3 Diseño
+12 Marketing
+4 5 Diseño
+17 Marketing
+6 10 Diseño
+12 Marketing
+1 12 Publicidad
+10 Marketing
+2 15 Publicidad
+6 Marketing
+3 17 Publicidad
+1 Marketing
+4 14 Publicidad
+10 Marketing
+1 12 Contaduria
+8 Finanzas
+2 15 Contaduria
+12 Finanzas
+3 11 Contaduria
+9 Finanzas
+3 11 Liquidaciones
+9 Finanzas
+4 15 Liquidaciones
+15 Finanzas
