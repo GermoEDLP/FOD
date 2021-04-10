@@ -1,0 +1,18 @@
+15 17 1 Cordoba
+15 17 2 Cordoba
+15 17 3 Cordoba
+15 17 4 Cordoba
+15 17 5 Cordoba
+15 17 6 Cordoba
+12 15 1 Salta
+12 15 2 Salta
+12 15 3 Salta
+12 15 4 Salta
+12 15 5 Salta
+12 15 6 Salta
+15 20 1 Buenos Aires
+15 20 2 Buenos Aires
+15 20 3 Buenos Aires
+15 20 4 Buenos Aires
+15 20 5 Buenos Aires
+15 20 6 Buenos Aires

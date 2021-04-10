@@ -1,0 +1,18 @@
+5 7 1 Cordoba
+5 7 2 Cordoba
+5 7 3 Cordoba
+5 7 4 Cordoba
+5 7 5 Cordoba
+5 7 6 Cordoba
+2 5 1 Salta
+2 5 2 Salta
+2 5 3 Salta
+2 5 4 Salta
+2 5 5 Salta
+2 5 6 Salta
+5 8 1 Buenos Aires
+5 8 2 Buenos Aires
+5 8 3 Buenos Aires
+5 8 4 Buenos Aires
+5 8 5 Buenos Aires
+5 8 6 Buenos Aires
